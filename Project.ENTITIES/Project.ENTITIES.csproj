@@ -48,7 +48,6 @@
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\BookTag.cs" />
     <Compile Include="Models\Category.cs" />
-    <Compile Include="Models\Deneme.cs" />
     <Compile Include="Models\Room.cs" />
     <Compile Include="Models\Shelf.cs" />
     <Compile Include="Models\Tag.cs" />
