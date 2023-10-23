@@ -14,6 +14,7 @@ namespace Project.ENTITIES.Models
         public DateTime? Deathdate { get; set; }
 
         //Relational Properties
+        //güzel class
         public virtual Author Author { get; set; }
 
     }
