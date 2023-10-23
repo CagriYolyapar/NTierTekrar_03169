@@ -15,6 +15,7 @@ namespace Project.ENTITIES.Models
 
         //Relational Properties
         //güzel class
+        //tesekkür ederim :)
         // tamam mı?
         public virtual Author Author { get; set; }
 
