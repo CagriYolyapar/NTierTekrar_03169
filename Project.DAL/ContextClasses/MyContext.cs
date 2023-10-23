@@ -12,6 +12,8 @@ namespace Project.DAL.ContextClasses
     public class MyContext:DbContext
     {
        // Değişiklik hoca bana kzıdı
+       // deneme 1
+         
         public MyContext():base("MyConnection")
         {
 
